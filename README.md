@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Building a RESTful API in Node and Express
 
 Using the new Express 4.0 Router to build an API
@@ -16,3 +17,12 @@ Using the new Express 4.0 Router to build an API
 
 ## Testing the API
 Test your API using [Postman](https://chrome.google.com/webstore/detail/postman-rest-client-packa/fhbjgbiflinjbdggehcddcbncdddomop)
+=======
+# USnoozeULose-server
+An alarm clock which incentivizes waking up on time by adding or removing money from your bank account!
+
+# Collaborators
+Nisarg Patel, Michael Yang, Moulindra Muchumari, Hector Solis
+
+# Install
+>>>>>>> e7e0f04071e2280185b3aefcffa1134b31eb1d0f
